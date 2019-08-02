@@ -1,0 +1,29 @@
+{
+  "name": "ait_hw2",
+  "version": "1.0.0",
+  "description": "ha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benldev/ait_hw2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benldev/ait_hw2/issues"
+  },
+  "homepage": "https://github.com/benldev/ait_hw2#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.1.0",
+    "eslint-plugin-mocha": "^6.0.0",
+    "mocha-sinon": "^2.1.0",
+    "sinon": "^7.3.2"
+  },
+  "dependencies": {
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
