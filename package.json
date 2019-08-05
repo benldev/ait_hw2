@@ -24,6 +24,7 @@
     "sinon": "^7.3.2"
   },
   "dependencies": {
-    "eslint-plugin-react": "^7.14.3"
+    "eslint-plugin-react": "^7.14.3",
+    "request": "^2.88.0"
   }
 }
